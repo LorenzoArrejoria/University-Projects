@@ -1,0 +1,12 @@
+{
+Una empresa de internet desea analizar el uso de su red durante varios dias. AL empezar el monitoreo, debe ingresar la cantidad de dias a analizar, por cada dia, ingresa la
+cantidad de conexiones registradas.
+Para cada conexion se debe ingresar:
+Cantidad de datos consumidos (en MB).
+Tipo de conexion: 1 streaming, 2 videollamada, 3 navegacion web.
+Se pide:
+A) Calcular el total de datos consumidos por dias
+B) Determinar que tipo de conexion consume mas datos en cada dia
+C) Contar cuantas conexiones de videollamada superaron los 500 MB en todo el periodo
+D) Determinar el dia con mayor consumo total de datos
+}
